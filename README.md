@@ -1,4 +1,4 @@
-# Feature Extraction from Images using Qwen-VL-2B
+# Amazon ML Challenge 2024 : Feature Extraction from Images using Qwen-VL-2B
 
 ## Contributors
 
